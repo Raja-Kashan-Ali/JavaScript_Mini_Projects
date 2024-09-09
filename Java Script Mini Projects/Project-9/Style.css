@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    overflow: hidden;
+}
+
+.timer-container{
+       background-color: yellowgreen;
+       border: 5px solid gray;
+       border-radius: 5px;
+      
+      
+       margin-top: 8%;
+      
+}
+
+h1{
+    color: white;
+    text-align: center;
+    
+    font-size: 200px;
+   
+}
